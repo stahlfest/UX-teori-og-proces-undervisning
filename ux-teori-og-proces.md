@@ -16,7 +16,34 @@ slidenumbers:true
 ^Titlen har for mig ingen betydning
 Jeg sad hvor i sidder for et år siden. Bare på 3. skoleforløb før eksamen.
 Skolen var tid til at dygtiggøre sig og begå fejl.
-Portfolio i sig selv, gør dig ikke til en god designer.
+
+----
+
+#Historie tid!
+^Jeg sad hvor i sidder for et år siden. Bare på 3. skoleforløb før eksamen.
+Skolen var tid til at dygtiggøre sig og begå fejl.
+
+
+----
+
+#For et år siden
+
+----
+
+#Før eksamen
+
+----
+
+#Portfolio
+
+----
+
+##Portfolio i sig selv, gør dig ikke til en god designer
+
+----
+
+>clients aren’t hiring your portfolio, they’re hiring you
+--Mike Monteiro
 
 ----
 
