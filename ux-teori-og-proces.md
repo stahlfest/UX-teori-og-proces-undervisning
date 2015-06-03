@@ -484,16 +484,16 @@ KPI
 
 ----
 
-##Idegenering
-[Idé kort](http://www.designgames.com.au/idea_cards/)
+#Målepunkter
+[Google Analytics](http://www.google.com/analytics/)
+[Heatmap JS](http://www.patrick-wied.at/static/heatmapjs/)
+[Crazy egg](https://www.crazyegg.com/demo#heatmap)
 
 ----
 
-##Scoping
+#Lean startup
 
-----
-
-##Målepunkter
+^Er også agil sprint basseret, men istedet for du har svaret på alt, hypoteser.
 
 ----
 
@@ -511,15 +511,21 @@ KPI
 
 ----
 
-#Learn build test
+#Learn, build, test
 
 ----
 
-#Lean startup
 
-^Er også agil sprint basseret, men istedet for du har svaret på alt, hypoteser.
+##**The Lean Startup**
+###Eric Ries
+![inline fit](assets/leanstartup.jpg)
 
 ----
+
+![autoplay](https://www.youtube.com/watch?v=rJo8gWBUhfg)
+
+----
+
 
 ##**Indholdstrategi**
 #*Content first*
@@ -808,6 +814,13 @@ Giv brugeren simple opgaver de skal udføre
 Giv brugeren frie hænder til at udforske
 
 Optag skærm og brugerens ansigt for reaktioner
+
+![left](assets/card-sorting.jpg)
+
+----
+
+##**Bruger tests**
+#*_Split test (A/B test)_*
 
 ![left](assets/card-sorting.jpg)
 
