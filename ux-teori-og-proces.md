@@ -26,39 +26,36 @@ Skolen var tid til at dygtiggøre sig og begå fejl.
 
 ----
 
-#For et år siden
+#2010
 
 ----
 
-#Før eksamen
+#Lejlighed
+
+![original](assets/lejlighed.jpg)
 
 ----
 
-#Portfolio
+<br />
+#Kasper Baagø
+
+![original](assets/kasper.jpg)
 
 ----
 
-##Portfolio i sig selv, gør dig ikke til en god designer
+
+##Musique non stop
+
+![original](assets/musik.jpg)
 
 ----
 
->clients aren’t hiring your portfolio, they’re hiring you
---Mike Monteiro
+##Grundforløb
+###ZzZzZz...
 
 ----
 
-##Personlighed, passion og resultater
-^Vær dig selv
-10.000 timer for at blive god, finde, forstå og formidle
-Gør dig umgae, færdiggør din projekter, og levér til tiden.
-
-----
-
-##Titler der passer bedre:
-###Digital designer
-###UX designer
-###Front-end udvikler
-###Iværksætter
+##1. oktober 2010
 
 ----
 
@@ -67,7 +64,6 @@ Gør dig umgae, færdiggør din projekter, og levér til tiden.
 ^Jeg er ikke vokset op i en iværksætterfamilie
 I 2010 starter vi edentic, hvorfor? (kasper og jeg forskellige)
 Start aldrig en I/S virksomhed
-++timeline billede fra 2010 til 2015 skal laves
 
 ----
 
@@ -85,6 +81,51 @@ Start aldrig en I/S virksomhed
 ----
 
 ![Original fit](assets/edentic_logo_stor.png)
+
+----
+
+#For et år siden
+
+----
+
+#Før eksamen
+
+----
+
+#Portfolio
+
+----
+
+##12 med sølvmedalje
+#O_o
+
+----
+
+##Portfolio i sig selv, gør dig ikke til en god designer
+
+----
+
+>clients aren’t hiring your portfolio, they’re hiring you
+--Mike Monteiro
+
+----
+
+#DEMO!
+
+----
+
+##Personlighed, passion og resultater
+^Vær dig selv
+10.000 timer for at blive god, finde, forstå og formidle
+Gør dig umgae, færdiggør din projekter, og levér til tiden.
+
+----
+
+##Titler der passer bedre:
+###Digital designer
+###UX designer
+###Front-end udvikler
+###Iværksætter
 
 ----
 
