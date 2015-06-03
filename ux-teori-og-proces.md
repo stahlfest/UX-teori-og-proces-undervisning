@@ -200,6 +200,10 @@ Gør dig umgae, færdiggør din projekter, og levér til tiden.
 
 ----
 
+![original](assets/fiktivt-projekt.jpg)
+
+----
+
 ##**Waterfall** vs. Agile
 
 ----
@@ -227,12 +231,6 @@ hvordan kan vi lave et website der bliver gradvist bedre og bedre - ikke dårlig
 ![original x50%](assets/edentic-sprint_model.jpg)
 
 ^Source:http://edentic.dk
-
-----
-
-#Lean startup
-
-^Er også agil sprint basseret, men istedet for du har svaret på alt, hypoteser.
 
 ----
 
@@ -414,14 +412,30 @@ KPI
 ----
 
 ##**Emotional design**
-###Vi behøver ikke at se to øjne og en mund for at føle en følelsesmæssig forbindelse til et design
+###Eksempler
+[Little Moo](https://vimeo.com/34978760#t=476s)
+[Chalkboard](https://vimeo.com/34978760#t=632s)
+
+![left](assets/beetle.jpg)
 
 ----
 
 ##**Emotional design**
-###Eksempler
-[Little Moo](https://vimeo.com/34978760#t=476s)
-[Chalkboard](https://vimeo.com/34978760#t=632s)
+###Vi behøver ikke at se to øjne og en mund for at føle en følelsesmæssig forbindelse til et design
+
+----
+
+![original x170%](assets/golden-ratio.jpg)
+
+----
+
+##**Designing for emotion**
+###Aarron Walter
+![inline fit](assets/designing-for-emotion.jpg)
+
+----
+
+##**Tilgængelighed**
 
 ----
 
@@ -452,6 +466,11 @@ KPI
 
 ##**Tilgængelighed**
 #*_Fysiske omgivelser_*
+
+----
+
+##**Tilgængelighed**
+#*_Geolocation_*
 
 ----
 
@@ -493,6 +512,12 @@ KPI
 ----
 
 #Learn build test
+
+----
+
+#Lean startup
+
+^Er også agil sprint basseret, men istedet for du har svaret på alt, hypoteser.
 
 ----
 
