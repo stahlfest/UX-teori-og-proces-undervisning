@@ -84,6 +84,20 @@ Start aldrig en I/S virksomhed
 
 ----
 
+##Fik tilbudt job, og sagde nej
+
+----
+
+#Edentic ApS
+
+----
+
+#Silicon back alley
+
+![Original fit](assets/silicon-back-alley.jpg)
+
+----
+
 #For et år siden
 
 ----
@@ -98,6 +112,7 @@ Start aldrig en I/S virksomhed
 
 ##12 med sølvmedalje
 #O_o
+^Blev fejret med masser af øl på en mandag
 
 ----
 
@@ -257,10 +272,15 @@ hvordan kan vi lave et website der bliver gradvist bedre og bedre - ikke dårlig
 ----
 
 #Værdiskabelse
-###Effektivisering, automatisering, selvbetjening
-^Hvis vi kan spare eller tjene penge, skaber vi værdi!
+###Hvilket job skal dit produkt/service udføre?
+
 
 ----
+
+###Effektivisering, automatisering, selvbetjening
+###Hvis vi kan spare eller tjene penge, skaber vi værdi!
+
+____
 
 ##Eksempel på spørgsmål
 Hvem vil få fordel af en løsning på problemet?
@@ -331,7 +351,7 @@ Digitalt eller offline
 
 [Google Analytics](analytics.google.com)
 
-![left](assets/58.jpg)
+![left](assets/analytics.jpg)
 
 ^Mapping af lignende produkter, Bruger adfærd via Google Analytics, Målgruppe research via Søgemaskine, spørgeskema m.m. Teknik og kompetence research. 
 
@@ -340,7 +360,7 @@ Digitalt eller offline
 ##**User research**
 #*_Social media_*
 
-![left](assets/58.jpg)
+![left](assets/indblik.jpg)
 
 ----
 
@@ -374,7 +394,7 @@ Digitalt eller offline
 
 ##Hypoteser
 
-![](assets/58.jpg)
+![original](assets/kasper-og-tore.jpg)
 
 ^Vi vi skal løse vores problemstilling ved at...(gøre det nemt at)
 Vi ved det lykkedes når, vi...
@@ -484,6 +504,11 @@ KPI
 
 ----
 
+##**Tilgængelighed**
+#*_Voice commands_*
+
+----
+
 #Målepunkter
 [Google Analytics](http://www.google.com/analytics/)
 [Heatmap JS](http://www.patrick-wied.at/static/heatmapjs/)
@@ -555,8 +580,13 @@ KPI
 
 ----
 
-##**Paper protoyping**
-#*_Wireframing_*
+##**Informationsarkitektur**
+#*_Paper protoyping_*
+
+----
+
+##**Informationsarkitektur**
+#*_Interactive wireframe_*
 
 ----
 
@@ -606,14 +636,14 @@ KPI
 ----
 
 ##**Team overvejelser**
-#*_Udviklingsmiljø_*
+#*_Pre-processors_*
+
+[SASS](http://sass-lang.com/)
 
 ----
 
 ##**Team overvejelser**
-#*_Workflow_*
-
-[SASS](http://sass-lang.com/)
+#*_Automation_*
 
 [GULP](http://gulpjs.com/)
 
@@ -621,6 +651,19 @@ KPI
 
 ##**Team overvejelser**
 #*_Versionsstyring_*
+
+[GIT](https://git-scm.com/)
+
+----
+
+##**Team overvejelser**
+#*_Udviklingsmiljø_*
+
+Local
+
+Staging
+
+Production
 
 ----
 
