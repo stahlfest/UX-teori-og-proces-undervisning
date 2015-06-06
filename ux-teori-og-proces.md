@@ -265,6 +265,21 @@ hvordan kan vi lave et website der bliver gradvist bedre og bedre - ikke dårlig
 
 ----
 
+#Kunder siger
+
+###Vi har fået ny chef
+###Vi skal have et responsivt site
+^Hvad er det for en pain du vil løse?
+^At gøre et site responsivt er ikke et kerne af problemet
+
+----
+
+##Det er okay ikke at vide alt
+####Det er jo det vi skal finde ud af
+
+
+----
+
 #Stil spørgsmål
 ###Hvorfor, hvordan, hvad, hvor, og hvem
 
