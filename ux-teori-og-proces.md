@@ -775,21 +775,40 @@ Production
 ##**Animations**
 #*_Meaningful transitions_*
 
-![left](assets/58.jpg)
+----
+
+![autoplay loop](assets/meaningful-transition.mp4)
 
 ----
 
 ##**Animations**
 #*_Orientering_*
 
-![left](assets/58.jpg)
+----
+
+![autoplay loop x110%](assets/zoom-navigation.mp4)
 
 ----
 
 ##**Animations**
-#*_Zoom in_*
+#*_Feedback_*
 
-![left](assets/58.jpg)
+----
+
+##**Animations**
+#*_..._*
+[Functional Animation In UX Design](http://www.smashingmagazine.com/2015/05/14/functional-ux-design-animations/)
+
+[Motion Ui Design Principles](http://www.beyondkinetic.com/motion-ui-design-principles/)
+
+
+[sixux.com (Inspiration blog)](http://sixux.com/)
+
+----
+
+#**Performance**
+
+![left](assets/lag.gif)
 
 ----
 
@@ -800,7 +819,6 @@ Production
 
 ##**Performance**
 #*_Performance budget_*
-^https://www.youtube.com/watch?v=yqejmZrtmNg
 
 ----
 
@@ -845,11 +863,6 @@ Production
 
 ----
 
-##**Performance teknik**
-#*_HTTP requests_*
-
-----
-
 ##**Performance design**
 #*_Spinners?_*
 
@@ -879,6 +892,12 @@ Production
 
 ----
 
+#**Kvalitets tests**
+
+![left](assets/test.gif)
+
+----
+
 ##**Kvalitets tests**
 #*_Automatiseret tests_*
 
@@ -891,42 +910,42 @@ Production
 #*_Device testing_*
 
 [Odense Device Lab](http://odensedevicelab.dk/)
+[Browserstack](https://www.browserstack.com/)
 
 ----
 
 
 ##**Bruger tests**
 #*_Bundet opgave_*
+
 Giv brugeren simple opgaver de skal udføre
 
-[Turn User Goals into Task Scenarios for Usability Testing](http://www.nngroup.com/articles/task-scenarios-usability-testing/)
-
-![left](assets/card-sorting.jpg)
+#####[Turn User Goals into Task Scenarios for Usability Testing](http://www.nngroup.com/articles/task-scenarios-usability-testing/)
 
 ----
 
 ##**Bruger tests**
 #*_Udforskelse_*
+
 Giv brugeren frie hænder til at udforske
 
 Optag skærm og brugerens ansigt for reaktioner
-
-![left](assets/card-sorting.jpg)
 
 ----
 
 ##**Bruger tests**
 #*_Split test (A/B test)_*
 
-![left](assets/card-sorting.jpg)
+----
+
+##*_Det var det hele..._*
 
 ----
 
-##Eksempler på dålig UX
-
+##*_...men har vi tid til en talk?_*
 
 ----
 
-![](https://www.youtube.com/watch?v=6R3OptC1VUY)
+![autoplay](https://youtu.be/6R3OptC1VUY?t=28s)
 
 ----
