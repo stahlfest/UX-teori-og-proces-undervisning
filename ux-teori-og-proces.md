@@ -5,24 +5,16 @@ slidenumbers:true
 
 ##Hvem siger du?
 
-![](assets/photo-1428542170253-0d2f063e92c2.jpeg)
-
-^Hvorfor står jeg her, og hvem er jeg?
+![original](assets/frederik.jpg)
 
 ---
 
 #Mediegrafiker
 ##(på papriet)
-^Titlen har for mig ingen betydning
-Jeg sad hvor i sidder for et år siden. Bare på 3. skoleforløb før eksamen.
-Skolen var tid til at dygtiggøre sig og begå fejl.
 
 ----
 
 #Historie tid!
-^Jeg sad hvor i sidder for et år siden. Bare på 3. skoleforløb før eksamen.
-Skolen var tid til at dygtiggøre sig og begå fejl.
-
 
 ----
 
@@ -61,14 +53,9 @@ Skolen var tid til at dygtiggøre sig og begå fejl.
 
 #Edentic
 
-^Jeg er ikke vokset op i en iværksætterfamilie
-I 2010 starter vi edentic, hvorfor? (kasper og jeg forskellige)
-Start aldrig en I/S virksomhed
-
 ----
 
 #**Pinligt** eller lærerigt?
-^I de næste par slides kommer jeg med eksempler på min personlige udvikling.
 
 ----
 
@@ -112,7 +99,6 @@ Start aldrig en I/S virksomhed
 
 ##12 med sølvmedalje
 #O_o
-^Blev fejret med masser af øl på en mandag
 
 ----
 
@@ -130,9 +116,6 @@ Start aldrig en I/S virksomhed
 ----
 
 ##Personlighed, passion og resultater
-^Vær dig selv
-10.000 timer for at blive god, finde, forstå og formidle
-Gør dig umgae, færdiggør din projekter, og levér til tiden.
 
 ----
 
@@ -145,8 +128,6 @@ Gør dig umgae, færdiggør din projekter, og levér til tiden.
 ----
 
 ##Hvad er det egentlig jeg laver?
-
-^Jeg begyndte først at skrive kode på 1. skoleforløb
 
 ----
 
@@ -186,14 +167,11 @@ Gør dig umgae, færdiggør din projekter, og levér til tiden.
 ---
 
 #Man skal *_ikke_* være guro for at lære fra sig
-^Man skal blot være et lille skridt foran i ens læring.
 
 ----
 
 #**UX teori og proces**
 ![original](assets/photo-1421940975339-33bdde74a873.jpeg)
-
-^Forståelse for UX gør dig til en bedre designer
 
 ----
 
@@ -202,7 +180,6 @@ Gør dig umgae, færdiggør din projekter, og levér til tiden.
 ----
 
 #User experience
-^Det handler om mennesker ikke computere
 
 ----
 
@@ -211,7 +188,6 @@ Gør dig umgae, færdiggør din projekter, og levér til tiden.
 ----
 
 ##Brugercentreret design
-^Det handler om mennesker ikke computere
 
 ----
 
@@ -225,9 +201,6 @@ Gør dig umgae, færdiggør din projekter, og levér til tiden.
 
 ![original x60%](assets/waterfall.png)
 
-^Source:http://www.commonplaces.com/blog/agile-vs-waterfall-how-approach-your-web-development-project
-hvordan kan vi lave et website der bliver gradvist bedre og bedre - ikke dårligere. Dette er ikke en tryksag, og derfor skal det ikke behandles som en. Dette er et stykke software, som er i udvikling.
-
 ----
 
 ![original x60%](assets/agile.png)
@@ -238,14 +211,11 @@ hvordan kan vi lave et website der bliver gradvist bedre og bedre - ikke dårlig
 
 ----
 
-
 ![original x60%](assets/agile-sprint1-2.png)
 
 ----
 
 ![original x50%](assets/edentic-sprint_model.jpg)
-
-^Source:http://edentic.dk
 
 ----
 
@@ -255,13 +225,10 @@ hvordan kan vi lave et website der bliver gradvist bedre og bedre - ikke dårlig
 
 ![](assets/confused.gif)
 
-^Hvad er det første i gør når i starter et projekt
 
 ----
 
 #Problemstilling
-^Hvad er det for en pain du vil løse?
-^At gøre et site responsivt er ikke et kerne af problemet
 
 ----
 
@@ -269,8 +236,6 @@ hvordan kan vi lave et website der bliver gradvist bedre og bedre - ikke dårlig
 
 ###Vi har fået ny chef
 ###Vi skal have et responsivt site
-^Hvad er det for en pain du vil løse?
-^At gøre et site responsivt er ikke et kerne af problemet
 
 ----
 
@@ -319,8 +284,6 @@ Start with why
 
 ![inline](assets/start-with-why.jpg)
 
-^Er der nogen der har hørt om den?
-
 ----
 
 ![autoplay](https://www.youtube.com/watch?v=l5Tw0PGcyN0)
@@ -368,8 +331,6 @@ Digitalt eller offline
 
 ![left](assets/analytics.jpg)
 
-^Mapping af lignende produkter, Bruger adfærd via Google Analytics, Målgruppe research via Søgemaskine, spørgeskema m.m. Teknik og kompetence research. 
-
 ----
 
 ##**User research**
@@ -383,10 +344,6 @@ Digitalt eller offline
 #*_Use cases_*
 
 ![left](assets/blind-user.jpg)
-
-^Beskriv de mest almindelige måder du formoder brugerne vil bruge din løsning på, og beskriv også hvad det er for en slags bruger
-
-
 
 ----
 
@@ -404,18 +361,12 @@ Digitalt eller offline
 
 ![left](assets/frederik-edentic-01.jpg)
 
-^de 3 prikker betyder mere
-
 ----
 
 
 ##Hypoteser
 
 ![original](assets/kasper-og-tore.jpg)
-
-^Vi vi skal løse vores problemstilling ved at...(gøre det nemt at)
-Vi ved det lykkedes når, vi...
-KPI
 
 ----
 
@@ -537,8 +488,6 @@ KPI
 
 #Lean startup
 
-^Er også agil sprint basseret, men istedet for du har svaret på alt, hypoteser.
-
 ----
 
 
@@ -621,9 +570,6 @@ KPI
 
 ##**Team overvejelser**
 #*_Designere og UX'er i koden?_*
-
-^Fælles sprog og forståelse
-^Bedre mulighed for rent faktisk at løse et problem
 
 ----
 
