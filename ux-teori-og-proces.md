@@ -320,7 +320,7 @@ Start with why
 ##**User research**
 #*_Brugerinterviews_*
 
-![left](assets/58.jpg)
+![left](assets/interview.jpg)
 
 
 ----
@@ -331,7 +331,7 @@ Digitalt eller offline
 
 [Survey Monkey](https://da.surveymonkey.com/)
 
-![left](assets/58.jpg)
+![left](assets/survey.jpg)
 
 
 ----
@@ -367,16 +367,18 @@ Digitalt eller offline
 ##**User research**
 #*_Use cases_*
 
-![left](assets/58.jpg)
+![left](assets/blind-user.jpg)
 
 ^Beskriv de mest almindelige måder du formoder brugerne vil bruge din løsning på, og beskriv også hvad det er for en slags bruger
+
+
 
 ----
 
 ##**User research**
 #*_Mapping af lignende koncepter_*
 
-![left](assets/58.jpg)
+![left](assets/edentic-koncept.jpg)
 
 ----
 
@@ -385,7 +387,7 @@ Digitalt eller offline
 
 [When to Use Which User-Experience Research Methods](http://www.nngroup.com/articles/which-ux-research-methods/)
 
-![left](assets/58.jpg)
+![left](assets/frederik-edentic-01.jpg)
 
 ^de 3 prikker betyder mere
 
@@ -466,6 +468,7 @@ KPI
 
 ##**Tilgængelighed**
 #*_Enheder_*
+![left](assets/devices.jpg)
 
 ----
 
@@ -486,6 +489,7 @@ KPI
 
 ##**Tilgængelighed**
 #*_Fysiske omgivelser_*
+![left](assets/fysiske-rammer.jpg)
 
 ----
 
