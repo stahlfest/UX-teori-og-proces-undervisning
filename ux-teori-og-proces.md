@@ -686,6 +686,13 @@ Production
 
 ----
 
+#**Designer i 2015**
+![left x90%](assets/design-comic.png)
+#*_Overvejelser_*
+#*_Design systems_*
+
+----
+
 ##**Design overvejelser**
 #*_Designing in the browser_*
 
@@ -706,8 +713,12 @@ Production
 
 ----
 
-##**Design system**
-#*_Material design_*
+###Style guides
+###Pattern Libraries
+###Design Frameworks
+###Design systems
+###Element collages
+[styleguides.io](http://styleguides.io/)
 
 ----
 
@@ -724,6 +735,11 @@ Production
 ##**Design system**
 #*_Atomic design_*
 
+
+----
+
+![original x80%](assets/patternlab.png)
+
 ----
 
 ##**Design system**
@@ -731,10 +747,28 @@ Production
 
 ----
 
+##**Design system**
+#*_Boostrap_*
+
+----
+
+![original x80%](assets/bootstrap.png)
+
+----
+
+##**Design system**
+#*_Material design_*
+
+####[google.com/design](http://www.google.com/design/)
+
+----
+
+![autoplay](https://youtu.be/rrT6v5sOwJg)
+
+----
+
 ##**Animations**
 #*_functional first_*
-
-![left](assets/58.jpg)
 
 ----
 
