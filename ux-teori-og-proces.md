@@ -519,27 +519,31 @@ Digitalt eller offline
 
 ----
 
-
-##**Indholdstrategi**
-#*Content first*
-
-^Lorem ipsum er dødt
+#**Indholdstrategi**
+#*Content Strategy*
 
 ----
 
 ##**Indholdstrategi**
-#*Data indsamling*
+#*Content first*
+####Lorem ipsum er ikke et sprog
+
+----
+
+##**Indholdstrategi**
+#*Content first*
+####Når du erstatter Lorem Ipsum med det rigtige content?
+
+----
+
+##**Indholdstrategi**
+#*Content first*
+####Undgå dine deadlines bliver overskredet
 
 ----
 
 ##**Indholdstrategi**
 #*Prioritering*
-
-----
-
-##**Indholdstrategi**
-#*Content audit*
-
 
 ----
 
@@ -643,7 +647,6 @@ Production
 #*_Designing in the browser_*
 
 ----
-
 ##**Design overvejelser**
 #*_Mobile first_*
 
@@ -804,11 +807,6 @@ Production
 
 ----
 
-##**Performance teknik**
-#*_Asynkron indlæsning_*
-
-----
-
 ##**Performance design**
 #*_Spinners?_*
 
@@ -894,4 +892,3 @@ Optag skærm og brugerens ansigt for reaktioner
 
 ![autoplay](https://youtu.be/6R3OptC1VUY?t=28s)
 
-----
